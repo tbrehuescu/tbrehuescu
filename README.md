@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tbrehuescu
-- 👀 I'm interested in learning about things that can make life easier and brighter
-- 🌱 I’m currently learning JavaScript
 - 📫 You can contact me at brehuescu.teodora@gmail.com
 
 <!---
